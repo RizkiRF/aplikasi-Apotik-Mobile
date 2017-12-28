@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1014814904211",
+    "firebase_url": "https://apotek-986ba.firebaseio.com",
+    "project_id": "apotek-986ba",
+    "storage_bucket": "apotek-986ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014814904211:android:50197723ccf1a1fd",
+        "android_client_info": {
+          "package_name": "id.web.rizki.apotikku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014814904211-gvoktbof86qo4k0kf22fvhogp4bmnbid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.web.rizki.apotikku",
+            "certificate_hash": "ecba1ac288111965d307ebb2b55e4906be1ca4c9"
+          }
+        },
+        {
+          "client_id": "1014814904211-9ar8f3r8hp534k6fn5e4mkd4imk6pf5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlytcjtPt3VHFfkXaywbi1sIDOHS0e9Kc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014814904211-9ar8f3r8hp534k6fn5e4mkd4imk6pf5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
